@@ -1,0 +1,17 @@
+#toplevel_page_box-tracker-portal img {
+	padding: 2px 0 0 0!important;
+    opacity: .8!important;
+}
+#toplevel_page_box-tracker-portal .wp-menu-name {
+	font-size: 10pt;
+}
+
+#b0xTPortal_setting_logo_div > img {
+	max-width: 100px;
+}
+
+#b0xTPortal_setting_form select, 
+#b0xTPortal_setting_form input[type=text],
+#b0xTPortal_setting_form input[type=password] {
+	min-width: 11.5rem;
+}
